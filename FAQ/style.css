@@ -1,20 +1,35 @@
 body {
     background: #dcdcdc; 
+
     text-align: center;
+
     color: #3a7269;
+
     font-weight: bold;
-    margin-top: 20px;
-    display: flex;
-    align-items: center;
-    border-bottom: solid 1px #dcdcdc;
-    margin: 10px;
-    height: 50px;
-    width: 500px;
-    line-height: 50px;
-    padding: 5px;
-    background: white;
+
     margin-inline: auto;
-    padding: 20px;
+
+    margin-top: 20px;
+
+    margin: 10px;
+
+    padding: 5px;
+
+    width: 500px;
+
+    height: 50px;
+    
+    line-height: 50px;
+
+    border-bottom: solid 1px #dcdcdc;
+
+    display: flex;
+
+    align-items: center;
+
+
+
+ 
 
 }
 h1 {
